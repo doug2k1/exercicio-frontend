@@ -30,7 +30,13 @@ Lembre-se de ir *comitando* suas alterações e fazendo *push* para seu reposit�
 
 - **CSS**: Pode ser usado CSS *puro* ou qualquer pré-processador como *Sass* ou *Less*. Vai da sua escolha.
 
-- **Fontes**: O design usa a fonte [Montserrat](https://fonts.google.com/specimen/Montserrat) nos títulos, conforme o arquivo `design/typography.png`. Ela pode ser carregada diretamente do **Google Fonts** (não precisa copiar para o projeto).
+- **Fontes**: O design usa a fonte [Montserrat](https://fonts.google.com/specimen/Montserrat) nos títulos. Ela pode ser carregada diretamente do **Google Fonts** (não precisa copiar para o projeto).
+  - Título principal: Montserrat, 38px, bold
+  - Subtítulo: Arial, 24px, normal
+  - Título de seção: Montserrat, 24px, bold
+  - Texto normal: Arial, 16px, normal
+  - Nome do projeto em destaque: Montserrat, 20px, bold
+  - Nome dos demais projetos: Montserrat, 18px, bold
 
 - **JS**: O código JS deve usar alguma funcionalidade da versão ES6 ou superiores (no mínimo deve usar `const` e `let` para declarar variáveis).
 
