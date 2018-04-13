@@ -18,7 +18,7 @@ Execute `npm start` para rodar o servidor local em http://localhost:3000.
 
 O resultado não precisa ser *pixel perfect*. Procure fazer o mais próximo possível do design. 
 
-2. Preencher a seção **Latest Projects** com informações carregadas via AJAX de http://localhost:3000/projects, que retorna um JSON com os dados necessários.
+2. Preencher a seção **Latest Projects** com informações carregadas via AJAX de http://localhost:3000/projects, que retorna um JSON com os dados necessários. O primeiro projeto retornado no *array* deve ser exibido como o projeto destaque, com a foto grande, e os demais mostrados abaixo.
 
 Lembre-se de ir *comitando* suas alterações e fazendo *push* para seu repositório, que é o que será avaliado.
 
