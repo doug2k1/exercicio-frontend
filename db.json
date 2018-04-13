@@ -1,0 +1,37 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "KickStarter - Potato Salad App",
+      "subtitle": "A mobile app to help you make delicious potato salad",
+      "description":
+        "You can promote your main project here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. At vero eos et accusamus et iusto odio dignissimos ducimus.",
+      "picture": "project-featured.jpg",
+      "url": "http://example.com"
+    },
+    {
+      "id": 2,
+      "title": "Velocity - Designed for Products",
+      "description":
+        "You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.",
+      "picture": "project-1.jpg",
+      "url": "http://example.com/2"
+    },
+    {
+      "id": 3,
+      "title": "Tempo - Designed for Startups",
+      "description":
+        "You can put one of your secondary projects here. Suspendisse in tellus dolor. Vivamus a tortor eu turpis pharetra consequat quis non metus. Aliquam aliquam, orci eu suscipit pellentesque, mauris dui tincidunt enim, eget iaculis ante dolor non turpis.",
+      "picture": "project-4.jpg",
+      "url": "http://example.com/3"
+    },
+    {
+      "id": 4,
+      "title": "Delta - Designed for Mobile Apps",
+      "description":
+        "You can put one of your secondary projects here. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum.",
+      "picture": "project-2.jpg",
+      "url": "http://example.com/4"
+    }
+  ]
+}
