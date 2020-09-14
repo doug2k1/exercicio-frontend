@@ -40,7 +40,11 @@ Lembre-se de ir *comitando* suas alterações e fazendo *push* para seu reposit�
 
 - **JS**: O código JS deve usar alguma funcionalidade da versão ES6 ou superiores (no mínimo deve usar `const` e `let` para declarar variáveis).
 
-- **Framework JS**: A escolha ou não de um framework JS como *React*, *Angular*, *Vue* fica a seu critério. 
+- **Framework JS**: A implementação deve utilizar o framework *React*. 
+
+- **State Management**: A implementação deve utilizar o *Redux*.
+
+- **HTML**: Dê preferência para escrita de HTML semântico.
 
 - **Module bundler**: O código JS deve ser transpilado para ES5 e *empacotado* usando algum *module bundler* como **Webpack** (de preferência). 
 
